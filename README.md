@@ -22,6 +22,6 @@ After the data is pre-processed with the help of trensfer learning using ResNet5
 Used kaggle data which consist of about 45K products with different categories in Fashion domain.
 [kaggle Data](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 ## Want to Have a LOOK :hugs:
--Clone the Repo.
--On your local machine on any python IDE run the app.py file.
--In terminal execute `streamlit run main.py`
+- Clone the Repo.
+- On your local machine on any python IDE run the app.py file.
+- In terminal execute `streamlit run main.py`
