@@ -14,4 +14,4 @@ Streamlit is an open-source python framework for building web apps for Machine L
 ## Working Model
 `CNN`
 Within Deep Learning, a Convolutional Neural Network or CNN is a type of artificial neural network, which is widely used for image/object recognition and classification. Deep Learning thus recognizes objects in an image by using a CNN.
-![Image]()
+![Image](https://github.com/wrajvi/Algorithm-FashionRecommendationEngine/blob/main/static/25366Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png)
