@@ -21,4 +21,4 @@ After the data is pre-processed with the help of trensfer learning using ResNet5
 ## Data Set
 Used kaggle data which consist of about 45K products with different categories in Fashion domain.
 [kaggle Data](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
-
+## Want to Have a LOOK :hugs:
