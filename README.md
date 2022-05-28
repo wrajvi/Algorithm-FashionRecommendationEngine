@@ -1,3 +1,13 @@
 # Algorithm-FashionRecommendationEngine
 ## Why I have Choosen this?
 Whenever I visit any E-commerce site or you can say youtube, I was always wonder how they are recommending the items/videos of my Interest.In this project I have learnt about that Algorithm.
+## Tech-Used
+>python
+
+Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). This tutorial gives enough understanding on Python programming language.
+>TensorFlow
+
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+>Streamlit
+
+Streamlit is an open-source python framework for building web apps for Machine Learning and Data Science. We can instantly develop web apps and deploy them easily using Streamlit. Streamlit allows you to write an app the same way you write a python code. Streamlit makes it seamless to work on the interactive loop of coding and viewing results in the web app.
